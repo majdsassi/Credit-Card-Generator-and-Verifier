@@ -18,7 +18,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ## Credits
 
-This script was developed by [majd sassi](https://github.com/majd-sassi).
+This script was developed by [majd sassi](https://github.com/majdsassi).
 
 ## License
 
