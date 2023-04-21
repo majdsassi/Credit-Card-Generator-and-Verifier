@@ -6,7 +6,7 @@ This is a Python script that generates valid credit cards using a BIN (Bank Iden
 
 ## Usage
 
-To use this script, simply run the `credit_cards.py` file in your Python environment. Follow the prompts to enter the BIN code and the number of credit cards you wish to generate.
+To use this script, simply run the `main.py` file in your Python environment. Follow the prompts to enter the BIN code and the number of credit cards you wish to generate.
 
 The script will then use the provided BIN to generate a set of random credit card numbers that pass the Luhn algorithm verification. The script will also generate a random expiration date and CCV number for each card.
 
